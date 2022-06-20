@@ -1,0 +1,50 @@
+ body {
+    background: #1E90FF;
+ }
+
+ #bng {
+    width: 100%;
+ }
+
+ .principal {
+    background: #1E90FF ;
+ }
+
+ h1 {
+     text-align: center
+ }
+
+p{
+     text-align: center
+ }
+
+ #pxar {
+    font-size: 20px
+ }
+
+em strong {
+    color: #F0F8FF;
+}
+
+.itens{
+   font-style: italic; 
+}
+
+.beneficios {
+    background: #1E90FF;
+}
+
+h2 {
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagembnf {
+    width: 50%;
+}
